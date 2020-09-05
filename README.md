@@ -1,2 +1,2 @@
-# idTechCybersecurity
-This is an introductory course of cybersecurity with Python.
+# IDTech-CRYPT3
+This is an introduction to cybersecurity and encryption with Python.
